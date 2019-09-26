@@ -1,0 +1,12 @@
+C:\Repositorio\introducaoaspnetcore-master\netcore-repositorty-pattern\src\Parking.Sln\Parking.Domain\bin\Debug\netstandard2.0\Parking.Domain.deps.json
+C:\Repositorio\introducaoaspnetcore-master\netcore-repositorty-pattern\src\Parking.Sln\Parking.Domain\bin\Debug\netstandard2.0\Parking.Domain.dll
+C:\Repositorio\introducaoaspnetcore-master\netcore-repositorty-pattern\src\Parking.Sln\Parking.Domain\bin\Debug\netstandard2.0\Parking.Domain.pdb
+C:\Repositorio\introducaoaspnetcore-master\netcore-repositorty-pattern\src\Parking.Sln\Parking.Domain\bin\Debug\netstandard2.0\Parking.Dto.dll
+C:\Repositorio\introducaoaspnetcore-master\netcore-repositorty-pattern\src\Parking.Sln\Parking.Domain\bin\Debug\netstandard2.0\Parking.Dto.pdb
+C:\Repositorio\introducaoaspnetcore-master\netcore-repositorty-pattern\src\Parking.Sln\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.csprojAssemblyReference.cache
+C:\Repositorio\introducaoaspnetcore-master\netcore-repositorty-pattern\src\Parking.Sln\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.csproj.CoreCompileInputs.cache
+C:\Repositorio\introducaoaspnetcore-master\netcore-repositorty-pattern\src\Parking.Sln\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.AssemblyInfoInputs.cache
+C:\Repositorio\introducaoaspnetcore-master\netcore-repositorty-pattern\src\Parking.Sln\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.AssemblyInfo.cs
+C:\Repositorio\introducaoaspnetcore-master\netcore-repositorty-pattern\src\Parking.Sln\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.csproj.CopyComplete
+C:\Repositorio\introducaoaspnetcore-master\netcore-repositorty-pattern\src\Parking.Sln\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.dll
+C:\Repositorio\introducaoaspnetcore-master\netcore-repositorty-pattern\src\Parking.Sln\Parking.Domain\obj\Debug\netstandard2.0\Parking.Domain.pdb

@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Parking.Domain\Parking.Domain.csproj" />
+    <ProjectReference Include="..\Parking.Dto\Parking.Dto.csproj" />
+    <ProjectReference Include="..\Parking.Infra\Parking.Infra.csproj" />
+  </ItemGroup>
+
+</Project>
